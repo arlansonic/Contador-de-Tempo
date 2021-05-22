@@ -1,0 +1,25 @@
+{
+  "name": "Contador-Tempo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "Contador-Tempo": "http-server ../Contador-Tempo -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arlansonic/Contador-de-Tempo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arlansonic/Contador-de-Tempo/issues"
+  },
+  "homepage": "https://github.com/arlansonic/Contador-de-Tempo#readme"
+}
